@@ -14,7 +14,7 @@ https://www.statista.com/topics/6408/music-streaming/
 
 - **Qu'est-ce qu'elles représentent?**
 
-  De manière plus précises que la question précédente, elles représentent des valeurs importants sur le nombres d'inscriptions sur les plateformes majeurs (Apple, Amazon, Spotify), mais aussi, le revenu de musiciens et des revenus de streaming à travers les différents continents, ou encore,  des musiques les plus téléchargées.
+  Pour compléter ma réponse précédente, elles représentent des valeurs importants sur le nombres d'inscriptions sur les plateformes majeurs (Apple, Amazon, Spotify), mais aussi, le revenu de musiciens et des revenus de streaming à travers les différents continents, ou encore,  des musiques les plus téléchargées.
 
 - **Quel est le format? (type de fichier...)**
 
