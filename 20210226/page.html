@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dessin SVG</title>
+    <style>
+        #hair:hover{ 
+            fill: #f5f38c;
+        }
+
+    </style>
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150" id="saiyan">
+        <g stroke="black" stroke-width="3" fill="none">
+            <path id="hair" d="M90, 90 v-80 a80, 80 0 0,0 -80, 80 z" fill="black"/>
+        </g>
+        <circle stroke-width="5" cx="50" cy="100" r="40" stroke="black" fill="#FFCC99"></circle>
+        <line x1="25" y1="100" x2="40" y2="100" stroke="black" stroke-width="3" />
+        <line x1="50" y1="100" x2="65" y2="100" stroke="black" stroke-width="3" />
+        <path d="M50, 120 Q60, 150 30, 122" fill="black" />
+    </svg>
+
+    <script>
+        const saiyan = document.getElementById('hair');
+        let isSaiyan = true
+
+        saiyan.addEventListener('click', () => {
+            isSaiyan = !isSaiyan;
+            saiyan.setAttribute('fill', isSaiyan ? 'black' : 'cyan');
+        });
+
+    </script>
+</body>
+</html>
