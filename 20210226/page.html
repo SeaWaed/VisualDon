@@ -13,6 +13,9 @@
     </style>
 </head>
 <body>
+    <audio id="audio">
+        <source src="Aura.mp3" type="audio/mpeg">
+    </audio>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150" id="saiyan">
         <g stroke="black" stroke-width="3" fill="none">
             <path id="hair" d="M90, 90 v-80 a80, 80 0 0,0 -80, 80 z" fill="black"/>
@@ -25,11 +28,15 @@
 
     <script>
         const saiyan = document.getElementById('hair');
+        const music = document.getElementById('audio');
+
         let isSaiyan = true
 
         saiyan.addEventListener('click', () => {
             isSaiyan = !isSaiyan;
             saiyan.setAttribute('fill', isSaiyan ? 'black' : 'cyan');
+            audio.play();
+
         });
 
     </script>
