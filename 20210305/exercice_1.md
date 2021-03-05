@@ -10,7 +10,7 @@ Que les électeurs sont plus nombreux dans les extrémités des USA et qui démo
 
  **qu'est ce qui est omis?** 
 
-Le fait de commencer à 50% fait que l'on oublie.
+Le fait de commencer à 50% qui fait que l'on oublie les autres électeurs moins nombreux. On oublie les électeurs extérieurs au USA.
 
 PornHub Review
 
@@ -27,4 +27,4 @@ Dans chacune des illustrations, on souhaite mettre en avant le volume des donné
 
  **qu'est ce qui est omis?** 
 
-Pas d'idée
+Les aspects négatifs 
