@@ -27,4 +27,4 @@ Dans chacune des illustrations, on souhaite mettre en avant le volume des donné
 
  **qu'est ce qui est omis?** 
 
-Les aspects négatifs 
+Les aspects négatifs, comment gagne-t-il de l'argent ? 
