@@ -5,4 +5,4 @@ La programmation réactive se définit comme une manière à développer sous fo
 Soit avec Svelte, soit avec D3. On définit différents événements inputs.
 
 **Quelle est l'alternative?**
-D'utiliser les événements ?
+D'utiliser les événements ? / Observable
