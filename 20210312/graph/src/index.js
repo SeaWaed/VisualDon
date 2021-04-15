@@ -1,9 +1,5 @@
 import {
-  axisLeft,
   select,
-  scaleLinear,
-  max,
-  shape,
   arc,
   pie
 } from 'd3'
@@ -31,68 +27,49 @@ const DATA = [
       }
 ]
 
-const WIDTH = 1000
-const HEIGHT = 500
-const container = DOM.svg(WIDTH, HEIGHT)
-const svg = d3.select(container)
+//Transformer les données en données adaptées au cambembert
+let getPieData = pie().value(d => d.number);
+let pieData = getPieData(DATA);
 
-const arcCreator = d3.arc()
-  .innerRadius(0)
-  .outerRadius(HEIGHT / 2 - 10)
+const WIDTH = 500;
+const HEIGHT = 500;
 
-const color = ({ DATA }) => {
-  switch (DATA.name){
-    case 'Lausanne': return 'gold'
-    case 'Yverdon-les-Bains': return 'blue'
-    case 'Ollon': return 'green'
-    case 'Ecublens (VD)': return 'orange'
-    case 'Montreux': return 'purple'
+const svg = select('body')
+  .append('svg')
+  .attr('viewBox', `0 0 ${WIDTH} ${HEIGHT}`)
+
+const arcCreator = arc()
+  .innerRadius(0) //Rayon interne
+  .outerRadius(HEIGHT / 2); //Rayon externe
+
+//Définition de la couleur
+const color = ({ data }) => {
+  switch (data.legende) {
+    case 'Lausanne': return 'blue'
+    case 'Yverdon-les-Bains': return 'red'
+    case 'Montreux': return 'green'
+    case 'Renens': return 'orange'
+    default: return 'black'
   }
 }
 
-const pie = svg.append('g')
-.attr('transform', `translate(${HEIGHT / 2}, ${HEIGHT / 2})`)
+//Centrer le cambembert via un groupe
+const group = svg.append('g')
+  .attr('transform', `translate(${HEIGHT / 2}, ${HEIGHT / 2})`);
 
-pie.selectAll('path')
-.data(pieData)
-.enter()
-.append('path')
-.attr('d', arcCreator)
-.attr('fill', color)
+group.selectAll('path')
+  .data(pieData)
+  .enter()
+  .append('path')
+  .attr('d', arcCreator)
+  .attr('fill', color);
 
-  // un texte pour chaque tranche
-  pie.selectAll('text')
-    .data(pieData)
-    .enter()
-    .append('text')
-    // .centroid permet de trouver le centre de la tranche
-    .attr('transform', d => `translate(${arcCreator.centroid(d)})`)
-    .attr('text-anchor', 'middle')
-    .text(d => d.data.name)
-
-      // la légende
-  const legend = svg.append('g')
-  .attr('transform', `translate(${HEIGHT-10})`)
-
-  const RECT_WIDTH = 20
-  
-  // les carrés de couleur3.line()
-  legend.selectAll('rect')
-    .data(pieData)
-    .enter()
-    .append('rect')
-    .attr('y', (d, i) => i * RECT_WIDTH)
-    .attr('width', RECT_WIDTH)
-    .attr('height', RECT_WIDTH)
-    .attr('fill', color)
-  
-  // les noms de fruits
-  legend.selectAll('text')
-    .data(pieData)
-    .enter()
-    .append('text')
-    .attr('x', RECT_WIDTH * 1.5)
-    .attr('y', (d, i) => i * RECT_WIDTH + RECT_WIDTH * 0.75)
-    .attr('width', RECT_WIDTH)
-    .attr('height', RECT_WIDTH)
-    .text(d => d.data.name)
+group.selectAll('text')
+  .data(pieData)
+  .enter()
+  .append('text')
+  .attr('transform', d => `translate(${arcCreator.centroid(d)})`)
+  .attr('text-anchor', 'middle')
+  .attr('font-family', 'sans-serif')
+  .attr('font-size', '1.2rem')
+  .text(d => d.data.legende)
