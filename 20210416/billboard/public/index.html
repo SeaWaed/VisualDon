@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+    <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <script>
+      const data = [
+        {
+            "ville": "Aigle",
+            "gare": "CFF",
+            "traficMoyJour": 6800
+        },
+        {
+            "ville": "Coppet",
+            "gare": "CFF",
+            "traficMoyJour": 6400
+        },
+        {
+            "ville": "Gland",
+            "gare": "CFF",
+            "traficMoyJour": 5500
+        },
+        {
+            "ville": "Bussigny",
+            "gare": "CFF",
+            "traficMoyJour": 3500
+        },
+        {
+            "ville": "Allaman",
+            "gare": "CFF",
+            "traficMoyJour": 3400
+        }
+      ]
+      bb.generate({
+        bindto: "#graph",
+        data: {
+          type: "bar",
+          json: {
+            traficMoyJour: data.map(({ traficMoyJour}) => traficMoyJour),
+          }
+        },
+        axis : {
+          type : 'category',
+          categories : data.map(({ville}) => ville)
+        },
+        color: {
+          pattern: ['indianred'],
+      }
+      })
+    </script>
+  </body>
+</html>
