@@ -21,17 +21,6 @@ const icon = L.icon({
 })
 
 japan.map(d => {
-  const [lon, lat] = d
-  L.marker([lat, lon], {icon}).addTo(map)
+  const [lon, lat] = d.cord
+  L.marker([lat, lon], {icon}).bindPopup(d.name).addTo(map)
 })
-
-L.geoJSON(
-  japan,
-  {
-    style: features =>
-      features.properties['name'],
-    onEachFeature: (feature, layer) =>
-      layer.bindPopup(feature.properties.name || feature.properties['volcano:status'] || feature.id)
-      
-  },
-).addTo(map)
