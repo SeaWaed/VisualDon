@@ -13,7 +13,7 @@ C'est un "wiki" de la map monde contenant des données géographique.
 C'est une extension de GeoJson. Sa différence est qu'il prend beaucoup moins de place que ce dernier, mais pour la même quantité d'informations.
 
 **À quoi sert turf? Décrivez ce que font trois fonctions de cette libraire**
-C'est une série de fonction comme D3.
+C'est une série de fonction comme D3 d'analyse avancée géospatiale.
 
  3 Exemples de fonction:
 1. Distance = Permet de calculer la distance entre deux points
