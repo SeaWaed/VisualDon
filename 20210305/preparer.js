@@ -1,8 +1,10 @@
 const data = require('./SolarEnergy_Swiss.json');
 
+const garesVD = d => d.Kanton ==='VD'
+
 const resultat = data
-    .filter(d => d.Canton === "Vaud")
-    .sort((a, b) => a.Scenario1_RoofsOnly_PotentialSolarElectricity_GWh > b.Scenario1_RoofsOnly_PotentialSolarElectricity_GWh ? -1 : 1)
+    .filter(garesVD)
+    .sort((a, b) => a.DTV_2018 > b.DTV_2018 ? -1 : 1)
     .slice(0, 5)
     .map(d => ({
         legende : d.MunicipalityName,
