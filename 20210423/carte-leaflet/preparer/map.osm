@@ -1,0 +1,1020 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-23T12:43:13Z"/>
+
+  <node id="263099699" lat="42.0632712" lon="140.6772408">
+    <tag k="alt_name:en" v="Hokkaido-komagatake"/>
+    <tag k="alt_name:ja" v="北海道駒ヶ岳"/>
+    <tag k="alt_name:ja_kana" v="北海道駒ヶ岳"/>
+    <tag k="alt_name:ja_rm" v="Hokkaidō-komagatake"/>
+    <tag k="ele" v="1131"/>
+    <tag k="name" v="駒ヶ岳"/>
+    <tag k="name:en" v="Komagatake"/>
+    <tag k="name:ja_kana" v="こまがたけ"/>
+    <tag k="name:ja_rm" v="Komagatake"/>
+    <tag k="name:ru" v="Комагатаке"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q715491"/>
+    <tag k="wikipedia" v="en:Hokkaidō Komagatake"/>
+  </node>
+  <node id="263099901" lat="42.0745329" lon="140.6885490">
+    <tag k="name:en" v="Sawaratake"/>
+    <tag k="name:ja" v="砂原岳"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="281895627" lat="43.9793537" lon="145.7326778">
+    <tag k="ele" v="888"/>
+    <tag k="last_eruption" v="1888"/>
+    <tag k="name" v="Менделеева"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="type" v="strato"/>
+  </node>
+  <node id="281896663" lat="44.3531877" lon="146.2526930">
+    <tag k="alt_name:cs" v="Tjatja"/>
+    <tag k="condition" v="active"/>
+    <tag k="ele" v="1819"/>
+    <tag k="int_name" v="Tyatya"/>
+    <tag k="name" v="Тятя"/>
+    <tag k="name:cs" v="Ťaťa"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="type" v="strato"/>
+    <tag k="wikidata" v="Q547770"/>
+  </node>
+  <node id="281897347" lat="43.8483958" lon="145.4957851">
+    <tag k="ele" v="543"/>
+    <tag k="int_name" v="Golovnin"/>
+    <tag k="last_eruption" v="1848"/>
+    <tag k="name" v="вулкан Головнина"/>
+    <tag k="name:ru" v="вулкан Головнина"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q2664586"/>
+    <tag k="wikipedia" v="ru:Вулкан Головнина"/>
+  </node>
+  <node id="287268918" lat="37.7220080" lon="140.2608522">
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="吾妻小富士"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="491318939" lat="42.0658183" lon="140.6858892">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="510162677" lat="36.4065526" lon="138.5229520">
+    <tag k="ele" v="2568"/>
+    <tag k="name" v="浅間山"/>
+    <tag k="name:de" v="Asama"/>
+    <tag k="name:en" v="Mt. Asama"/>
+    <tag k="name:es" v="Asama"/>
+    <tag k="name:fr" v="Asama"/>
+    <tag k="name:int" v="Asama"/>
+    <tag k="name:it" v="Asama"/>
+    <tag k="name:ja-Hira" v="あさまやま"/>
+    <tag k="name:ja-Latn" v="Asamayama"/>
+    <tag k="name:ru" v="Асама"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q242730"/>
+    <tag k="wikipedia" v="en:Mount Asama"/>
+    <tag k="wikipedia:ja" v="浅間山"/>
+  </node>
+  <node id="714354378" lat="35.3627990" lon="138.7307810">
+    <tag k="alt_name:cs" v="Fudži-san"/>
+    <tag k="alt_name:ja" v="富岳"/>
+    <tag k="alt_name:ja_kana" v="ふがく"/>
+    <tag k="alt_name:ko" v="부사산"/>
+    <tag k="alt_name:ru" v="вулкан Фудзи"/>
+    <tag k="description" v="火山と日本で一番高い山。最後に噴火したのは宝永四年。"/>
+    <tag k="description:en" v="Volcano and highest mountain in Japan. Last erupted in 1707."/>
+    <tag k="description:ru" v="Вулкан и самая высокая точка Японии. В последний раз извергался в 1707 году."/>
+    <tag k="ele" v="3776.2"/>
+    <tag k="ele:cho" v="34.5"/>
+    <tag k="ele:ft" v="12389"/>
+    <tag k="heritage" v="1"/>
+    <tag k="isolation" v="2077"/>
+    <tag k="name" v="富士山"/>
+    <tag k="name:af" v="Foedji"/>
+    <tag k="name:am" v="ፉጂ ተራራ"/>
+    <tag k="name:ar" v="جبل فوجي"/>
+    <tag k="name:as" v="মাউণ্ট ফুজি"/>
+    <tag k="name:az" v="Fuci"/>
+    <tag k="name:ba" v="Фудзияма"/>
+    <tag k="name:be" v="Фудзіяма"/>
+    <tag k="name:bg" v="Фуджи"/>
+    <tag k="name:bn" v="ফুজি পর্বত"/>
+    <tag k="name:br" v="Menez Fuji"/>
+    <tag k="name:bs" v="Fudži"/>
+    <tag k="name:ca" v="Mont Fuji"/>
+    <tag k="name:cs" v="Fudžisan"/>
+    <tag k="name:cy" v="Mynydd Fuji"/>
+    <tag k="name:da" v="Fuji"/>
+    <tag k="name:de" v="Fuji"/>
+    <tag k="name:dv" v="ފުޖީ ފަރުބަދަ"/>
+    <tag k="name:el" v="Φούτζι"/>
+    <tag k="name:en" v="Mount Fuji"/>
+    <tag k="name:eo" v="Fuĵi-Monto"/>
+    <tag k="name:es" v="Monte Fuji"/>
+    <tag k="name:et" v="Fuji"/>
+    <tag k="name:eu" v="Fuji mendia"/>
+    <tag k="name:fa" v="کوه فوجی"/>
+    <tag k="name:fi" v="Fuji"/>
+    <tag k="name:fr" v="Mont Fuji"/>
+    <tag k="name:gl" v="Monte Fuji"/>
+    <tag k="name:he" v="הר פוג'י"/>
+    <tag k="name:hi" v="फ्यूजीयामा"/>
+    <tag k="name:hr" v="Fuji"/>
+    <tag k="name:hu" v="Fudzsi"/>
+    <tag k="name:hy" v="Ֆուձիյամա"/>
+    <tag k="name:id" v="Gunung Fuji"/>
+    <tag k="name:it" v="Monte Fuji"/>
+    <tag k="name:ja" v="富士山"/>
+    <tag k="name:ja-Hira" v="ふじさん"/>
+    <tag k="name:ja_kana" v="ふじさん"/>
+    <tag k="name:ja_rm" v="Fujisan"/>
+    <tag k="name:jv" v="Gunung Fuji"/>
+    <tag k="name:ka" v="ფუძიამა"/>
+    <tag k="name:kk" v="Фудзияма"/>
+    <tag k="name:km" v="ភ្នំហ្វឹជី"/>
+    <tag k="name:ko" v="후지 산"/>
+    <tag k="name:la" v="Mons Fusius"/>
+    <tag k="name:lt" v="Fudzijama"/>
+    <tag k="name:lv" v="Fudzi"/>
+    <tag k="name:mk" v="Фуџи"/>
+    <tag k="name:ml" v="ഫുജി പർവ്വതം"/>
+    <tag k="name:mn" v="Фүжи уул"/>
+    <tag k="name:mr" v="फूजी पर्वत"/>
+    <tag k="name:ms" v="Gunung Fuji"/>
+    <tag k="name:nl" v="Fuji"/>
+    <tag k="name:nn" v="Fuji-fjellet"/>
+    <tag k="name:no" v="Fuji-san"/>
+    <tag k="name:oc" v="Mont Fuji"/>
+    <tag k="name:or" v="ଫୁଜି ପର୍ବତ"/>
+    <tag k="name:pa" v="ਮਾਊਂਟ ਫੂਜੀ"/>
+    <tag k="name:pl" v="Fudżi"/>
+    <tag k="name:pt" v="Monte Fuji"/>
+    <tag k="name:ro" v="Fuji"/>
+    <tag k="name:ru" v="вулкан Фудзияма"/>
+    <tag k="name:sk" v="Fudžisan"/>
+    <tag k="name:sl" v="Fuji"/>
+    <tag k="name:sq" v="Fuxhi"/>
+    <tag k="name:sr" v="Fudži"/>
+    <tag k="name:su" v="Gunung Fuji"/>
+    <tag k="name:sv" v="Fuji"/>
+    <tag k="name:ta" v="ஃவூஜி மலை"/>
+    <tag k="name:te" v="ఫ్యూజీ పర్వతం"/>
+    <tag k="name:th" v="ภูเขาฟุจิ"/>
+    <tag k="name:tl" v="Bundok Fuji"/>
+    <tag k="name:tr" v="Fuji Dağı"/>
+    <tag k="name:tt" v="Фудзияма"/>
+    <tag k="name:uk" v="вулкан Фудзі"/>
+    <tag k="name:ur" v="کوہ فیوجی"/>
+    <tag k="name:vi" v="Phú Sĩ"/>
+    <tag k="name:zh" v="富士山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="note" v="国土地理院地図&#xA;https://maps.gsi.go.jp/#14/35.362456/138.730502/&amp;base=std&amp;ls=std&amp;disp=1&amp;vs=c1j0h0k0l0u0t0z0r0s0m0f1"/>
+    <tag k="owner" v="富士山本宮浅間大社"/>
+    <tag k="prominence" v="3776"/>
+    <tag k="short_name:cs" v="Fudži"/>
+    <tag k="volcano:status" v="dormant"/>
+    <tag k="volcano:type" v="stratovolcano"/>
+    <tag k="wikidata" v="Q39231"/>
+    <tag k="wikipedia" v="ja:富士山"/>
+  </node>
+  <node id="829818724" lat="42.6893940" lon="141.3782424">
+    <tag k="ele" v="1041"/>
+    <tag k="name" v="樽前山"/>
+    <tag k="name:en" v="Tarumae Yama"/>
+    <tag k="name:ja" v="樽前山"/>
+    <tag k="name:ja_kana" v="たるまえやま"/>
+    <tag k="name:ja_rm" v="Tarumae Yama"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q1057979"/>
+    <tag k="wikipedia" v="en:Mount Tarumae"/>
+  </node>
+  <node id="829818731" lat="42.6839197" lon="141.3696077">
+    <tag k="ele" v="993.9"/>
+    <tag k="name" v="Nishiyama"/>
+    <tag k="name:ja" v="西山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="829818753" lat="42.6919880" lon="141.3866463">
+    <tag k="ele" v="1022"/>
+    <tag k="name" v="東山"/>
+    <tag k="name:en" v="Higashiyama"/>
+    <tag k="name:ja" v="東山"/>
+    <tag k="name:ja_kana" v="ひがしやま"/>
+    <tag k="name:ja_rm" v="Higashiyama"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="917987193" lat="32.8848462" lon="131.0856638">
+    <tag k="ele" v="1592"/>
+    <tag k="name" v="阿蘇山"/>
+    <tag k="name:be" v="вулкан Аса"/>
+    <tag k="name:en" v="Mount Aso"/>
+    <tag k="name:es" v="Monte Aso"/>
+    <tag k="name:fr" v="Mont Aso"/>
+    <tag k="name:it" v="Monte Aso"/>
+    <tag k="name:ja" v="阿蘇山"/>
+    <tag k="name:ja_kana" v="あそさん"/>
+    <tag k="name:ja_rm" v="Aso-san"/>
+    <tag k="name:ru" v="вулкан Асо"/>
+    <tag k="name:uk" v="вулкан Асо"/>
+    <tag k="name:zh" v="阿苏山"/>
+    <tag k="name:zh-Hans" v="阿苏山"/>
+    <tag k="name:zh-Hant" v="阿蘇山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q733710"/>
+    <tag k="wikipedia" v="ja:阿蘇山"/>
+  </node>
+  <node id="1280125814" lat="31.5805744" lon="130.6579840">
+    <tag k="name" v="桜島"/>
+    <tag k="name:en" v="Sakurajima"/>
+    <tag k="name:ja" v="桜島"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="active"/>
+    <tag k="volcano:type" v="stratovolcano"/>
+    <tag k="wikidata" v="Q128841"/>
+  </node>
+  <node id="1280126650" lat="31.6514713" lon="130.6993509">
+    <tag k="name" v="姶良カルデラ"/>
+    <tag k="name:en" v="Aira Caldera"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="type" v="supervolcano"/>
+    <tag k="wikidata" v="Q1198576"/>
+  </node>
+  <node id="1344157430" lat="39.0992494" lon="140.0503497">
+    <tag k="description" v="山形県最高峰"/>
+    <tag k="ele" v="2236"/>
+    <tag k="name" v="鳥海山"/>
+    <tag k="name:en" v="Mt. Chokai"/>
+    <tag k="name:ja" v="鳥海山"/>
+    <tag k="name:ja-Hira" v="ちょうかいさん"/>
+    <tag k="name:ja-Latn" v="Chōkaisan"/>
+    <tag k="name:ru" v="Тёкай"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q713826"/>
+    <tag k="wikipedia" v="en:Mount Chōkai"/>
+  </node>
+  <node id="1366603211" lat="43.3863191" lon="144.0087915">
+    <tag k="ele" v="1499"/>
+    <tag k="name" v="雌阿寒岳"/>
+    <tag k="name:en" v="Mt. Me-Akan"/>
+    <tag k="name:ja-Latn" v="Meakandake"/>
+    <tag k="name:ja_kana" v="めあかんだけ"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q472705"/>
+    <tag k="wikipedia" v="en:Mount Meakan"/>
+  </node>
+  <node id="1366603214" lat="43.7657277" lon="144.7176711">
+    <tag k="ele" v="1547"/>
+    <tag k="name" v="斜里岳"/>
+    <tag k="name:en" v="Shari Dake"/>
+    <tag k="name:fr" v="Mont Shari"/>
+    <tag k="name:ja" v="斜里岳"/>
+    <tag k="name:ja_kana" v="しゃりだけ"/>
+    <tag k="name:ja_rm" v="Shari Dake"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q714564"/>
+    <tag k="wikipedia" v="en:Mount Shari"/>
+  </node>
+  <node id="1366603241" lat="45.1784980" lon="141.2420282">
+    <tag k="alt_name" v="利尻富士"/>
+    <tag k="ele" v="1721"/>
+    <tag k="name" v="利尻山"/>
+    <tag k="name:en" v="Mt. Rishiri"/>
+    <tag k="name:ja" v="利尻山"/>
+    <tag k="name:ja_kana" v="りしりざん"/>
+    <tag k="name:ja_rm" v="Rishiri Zan"/>
+    <tag k="name:ru" v="Рисири"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q2154758"/>
+    <tag k="wikipedia" v="ja:利尻山"/>
+  </node>
+  <node id="1563438382" lat="34.0884330" lon="139.5280135">
+    <tag k="ele" v="815"/>
+    <tag k="name" v="雄山"/>
+    <tag k="name:en" v="Mt. Oyama"/>
+    <tag k="name:ja" v="雄山"/>
+    <tag k="name:ja-Hira" v="おやま"/>
+    <tag k="name:ja_rm" v="O Yama"/>
+    <tag k="name:ru" v="Миякедзима"/>
+    <tag k="name:uk" v="Ояма"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q19945735"/>
+  </node>
+  <node id="1642980821" lat="44.8077041" lon="147.1274786">
+    <tag k="ele" v="1205"/>
+    <tag k="name" v="Атсонупури"/>
+    <tag k="name:en" v="Atsonupuri"/>
+    <tag k="name:ru" v="Атсонупури"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q524216"/>
+    <tag k="wikipedia" v="ru:Атсонупури"/>
+  </node>
+  <node id="1642980822" lat="44.8395349" lon="147.3497353">
+    <tag k="ele" v="1634"/>
+    <tag k="name" v="Стокап"/>
+    <tag k="name:en" v="Stokap"/>
+    <tag k="name:ru" v="Стокап"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q4442785"/>
+    <tag k="wikipedia" v="ru:Стокап"/>
+  </node>
+  <node id="1643078681" lat="44.4702737" lon="146.9297813">
+    <tag k="ele" v="1223"/>
+    <tag k="name" v="Берутарубе"/>
+    <tag k="name:en" v="Berutarube"/>
+    <tag k="name:ru" v="Берутарубе"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q829207"/>
+    <tag k="wikipedia" v="ru:Берутарубе"/>
+  </node>
+  <node id="1644058040" lat="45.3373815" lon="147.9206334">
+    <tag k="ele" v="1585"/>
+    <tag k="name" v="Богдан Хмельницкий"/>
+    <tag k="name:en" v="Bogdan Hmelnitskiy"/>
+    <tag k="name:ru" v="Богдан Хмельницкий"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="extinct"/>
+    <tag k="wikidata" v="Q4089188"/>
+    <tag k="wikipedia" v="ru:Богдан Хмельницкий (вулкан)"/>
+  </node>
+  <node id="1644058047" lat="45.0119888" lon="147.8735117">
+    <tag k="ele" v="1159"/>
+    <tag k="name" v="Иван Грозный"/>
+    <tag k="name:en" v="Ivan Groznyi"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q3156114"/>
+    <tag k="wikipedia" v="ru:Иван Грозный (вулкан)"/>
+  </node>
+  <node id="1644058078" lat="45.3780682" lon="147.9132224">
+    <tag k="ele" v="1589"/>
+    <tag k="name" v="Чирип"/>
+    <tag k="name:en" v="Chirip"/>
+    <tag k="name:ru" v="Чирип"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q2666739"/>
+    <tag k="wikipedia" v="ru:Чирип (вулкан)"/>
+  </node>
+  <node id="1644058087" lat="45.1031856" lon="148.0161192">
+    <tag k="ele" v="1134"/>
+    <tag k="name" v="вулкан Баранского"/>
+    <tag k="name:en" v="Baranskogo"/>
+    <tag k="name:ru" v="вулкан Баранского"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q807265"/>
+    <tag k="wikipedia" v="ru:Вулкан Баранского"/>
+  </node>
+  <node id="1644058088" lat="45.0219849" lon="147.9200275">
+    <tag k="ele" v="1211"/>
+    <tag k="name" v="вулкан Тебенькова"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="1691773451" lat="33.0822026" lon="131.2408919">
+    <tag k="ele" v="1787"/>
+    <tag k="name" v="九重山"/>
+    <tag k="name:en" v="Mt. Kuju"/>
+    <tag k="name:fr" v="Mont Kuju"/>
+    <tag k="name:ja" v="九重山"/>
+    <tag k="name:ja-Latn" v="Kujūsan"/>
+    <tag k="name:ja_kana" v="くじゅうさん"/>
+    <tag k="name:ru" v="вулкан Кудзю"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="extinct"/>
+    <tag k="volcano:type" v="stratovolcano"/>
+    <tag k="wikidata" v="Q6921721"/>
+  </node>
+  <node id="1852101603" lat="31.9380533" lon="130.8615144">
+    <tag k="name" v="霧島山"/>
+    <tag k="name:en" v="Mt. Kirishima"/>
+    <tag k="name:fr" v="Monts Kirishima"/>
+    <tag k="name:ja" v="霧島山"/>
+    <tag k="name:ja-Hira" v="きりしまやま"/>
+    <tag k="name:ja-Latn" v="Kirishimayama"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikipedia" v="ja:霧島山"/>
+  </node>
+  <node id="2106458688" lat="44.4543847" lon="146.1396441">
+    <tag k="ele" v="1485"/>
+    <tag k="name" v="Руруй"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="2118956382" lat="34.7295662" lon="139.3992173">
+    <tag k="name" v="B1"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="survey 2013-01-19"/>
+  </node>
+  <node id="2118971867" lat="34.7302838" lon="139.3983888">
+    <tag k="name" v="B2"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="survey 2013-01-19"/>
+  </node>
+  <node id="2118995816" lat="34.7269449" lon="139.3945435">
+    <tag k="ele" v="497"/>
+    <tag k="name:ru" v="Михара"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="trace, GSI/KIBAN 25000"/>
+    <tag k="wikidata" v="Q1138683"/>
+  </node>
+  <node id="2119419969" lat="34.7310265" lon="139.3973421">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="2482997126" lat="43.6000260" lon="144.4040555">
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="survey 2013-08-12"/>
+  </node>
+  <node id="2482997169" lat="43.6009086" lon="144.4066254">
+    <tag k="name" v="ボッケ"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="survey 2013-08-12"/>
+  </node>
+  <node id="2482997170" lat="43.6009735" lon="144.4064664">
+    <tag k="name" v="ボッケ"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="survey 2013-08-12"/>
+  </node>
+  <node id="2482997171" lat="43.6011625" lon="144.4078430">
+    <tag k="description" v="硫黄噴火口"/>
+    <tag k="name" v="第２硫黄山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="survey 2013-08-12"/>
+  </node>
+  <node id="2489390983" lat="28.8007733" lon="128.9947483">
+    <tag k="ele" v="494.8"/>
+    <tag k="name" v="東峰"/>
+    <tag k="name:en" v="Higashimine"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="2489390985" lat="28.7960922" lon="128.9793613">
+    <tag k="ele" v="259"/>
+    <tag k="name" v="西峰"/>
+    <tag k="name:en" v="Nishimine"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="2596204497" lat="36.5552373" lon="139.1782291">
+    <tag k="name" v="赤城山"/>
+    <tag k="name:en" v="Mt. Akagi"/>
+    <tag k="name:ja" v="赤城山"/>
+    <tag k="name:ja-Hira" v="あかぎさん"/>
+    <tag k="name:ja-Latn" v="Akagisan"/>
+    <tag k="name:ru" v="Акаги"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q415251"/>
+    <tag k="wikipedia" v="en:Mount Akagi"/>
+  </node>
+  <node id="3101369270" lat="35.8946201" lon="137.4788014">
+    <tag k="is_in:country" v="Japan"/>
+    <tag k="name" v="御嶽山"/>
+    <tag k="name:en" v="Mt. Ontake"/>
+    <tag k="name:ja-Latn" v="Ontakesan"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="status" v="active"/>
+    <tag k="type" v="stratovolcano"/>
+  </node>
+  <node id="3292335658" lat="42.7933040" lon="141.2853851">
+    <tag k="ele" v="1319.5"/>
+    <tag k="name" v="恵庭岳"/>
+    <tag k="name:en" v="Eniwa Dake"/>
+    <tag k="name:ja_kana" v="えにわだけ"/>
+    <tag k="name:ja_rm" v="Eniwa Dake"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="GSImaps/std"/>
+  </node>
+  <node id="3292335674" lat="42.7168585" lon="141.3588942">
+    <tag k="ele" v="1102.3"/>
+    <tag k="name" v="風不死岳"/>
+    <tag k="name:en" v="Fuppushi Dake"/>
+    <tag k="name:ja_kana" v="ふっぷしだけ"/>
+    <tag k="name:ja_rm" v="Fuppushi Dake"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="GSImaps/std"/>
+  </node>
+  <node id="3578270582" lat="39.7530656" lon="140.7956815">
+    <tag k="name" v="秋田駒ヶ岳"/>
+    <tag k="name:en" v="Mt. Akita-Komagatake"/>
+    <tag k="name:ja-Hira" v="あきたこまがたけ"/>
+    <tag k="name:ja-Latn" v="Akita-Komagatake"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="official_name" v="駒ヶ岳"/>
+    <tag k="official_name:en" v="Mt. Komagatake"/>
+    <tag k="official_name:ja-Hira" v="こまがたけ"/>
+    <tag k="official_name:ja-Latn" v="Komagatake"/>
+  </node>
+  <node id="3586241892" lat="32.7618964" lon="130.2916464">
+    <tag k="int_name" v="Mt. Unzen"/>
+    <tag k="name" v="雲仙岳"/>
+    <tag k="name:en" v="Mt. Unzen"/>
+    <tag k="name:ja-Latn" v="Unzendake"/>
+    <tag k="name:ru" v="Ундзен"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q620860"/>
+    <tag k="wikipedia" v="ja:雲仙岳"/>
+  </node>
+  <node id="3598758549" lat="37.1255153" lon="139.9636798">
+    <tag k="name" v="那須岳"/>
+    <tag k="name:en" v="Nasu"/>
+    <tag k="name:ja" v="那須岳"/>
+    <tag k="name:ja_kana" v="なすだけ"/>
+    <tag k="name:ja_rm" v="Nasu-dake"/>
+    <tag k="name:ru" v="Насу"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q3695587"/>
+    <tag k="wikipedia" v="ja:那須岳"/>
+  </node>
+  <node id="3600637057" lat="35.1346562" lon="132.6254971">
+    <tag k="name" v="三瓶山"/>
+    <tag k="name:en" v="Mt. Sanbe"/>
+    <tag k="name:ja-Latn" v="Sanbesan"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3600643281" lat="38.1367164" lon="140.4558427">
+    <tag k="name" v="蔵王山"/>
+    <tag k="name:en" v="Mt. Zao"/>
+    <tag k="name:ja-Hira" v="ざおうざん"/>
+    <tag k="name:ja-Latn" v="Zaōzan"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3600650310" lat="41.3169493" lon="141.0876763">
+    <tag k="alt_name:ja-Hira" v="おそれやま"/>
+    <tag k="alt_name:ja-Latn" v="Osoreyama"/>
+    <tag k="name" v="恐山"/>
+    <tag k="name:en" v="Mt. Osore"/>
+    <tag k="name:ja-Hira" v="おそれざん"/>
+    <tag k="name:ja-Latn" v="Osorezan"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3600728446" lat="43.6725100" lon="142.8665110">
+    <tag k="name" v="大雪山"/>
+    <tag k="name:en" v="Mt. Taisetsu"/>
+    <tag k="name:ja_kana" v="たいせつざん"/>
+    <tag k="name:ja_rm" v="Taisetsu Zan"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3698659760" lat="31.5752107" lon="130.6656292">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3698659761" lat="31.5769283" lon="130.6643148">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3698659762" lat="31.5785131" lon="130.6607543">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3698741198" lat="31.5790509" lon="130.6644223">
+    <tag k="natural" v="volcano"/>
+    <tag k="status" v="active"/>
+  </node>
+  <node id="3730395406" lat="30.4458111" lon="130.2151885">
+    <tag k="name" v="新岳"/>
+    <tag k="name:en" v="Shindake"/>
+    <tag k="name:ja_kana" v="しんだけ"/>
+    <tag k="name:ja_rm" v="Shindake"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="wikidata" v="Q20010113"/>
+  </node>
+  <node id="3810709997" lat="29.6425603" lon="129.7146854">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710626" lat="31.9111122" lon="130.8841761">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710655" lat="35.2395841" lon="139.0186664">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710656" lat="35.2398971" lon="139.0293527">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710661" lat="35.2430429" lon="139.0224716">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710664" lat="35.2445947" lon="139.0235154">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710675" lat="35.8887739" lon="137.4812106">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710677" lat="35.8910048" lon="137.4784445">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710712" lat="36.6426771" lon="138.5359804">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710729" lat="37.7265446" lon="140.2478987">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="3810710798" lat="43.3918628" lon="144.0167588">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4248418572" lat="43.3740895" lon="144.0064728">
+    <tag k="ele" v="1475.8"/>
+    <tag k="name" v="阿寒富士"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4267999498" lat="32.4530801" lon="139.7645425">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4268024381" lat="32.4524591" lon="139.7623729">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4269763015" lat="41.5136994" lon="139.3520620">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4271455105" lat="30.7875908" lon="130.3142977">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4271455106" lat="30.7897959" lon="130.3029702">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4271455109" lat="30.7899097" lon="130.3144633">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4271455112" lat="30.7913091" lon="130.3077945">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4271455113" lat="30.7930253" lon="130.3002046">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4271455114" lat="30.7967382" lon="130.3062161">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373440" lat="34.0800764" lon="139.5280700">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373449" lat="34.0806435" lon="139.5278198">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373457" lat="34.0811779" lon="139.5267270">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373458" lat="34.0814723" lon="139.5275038">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373464" lat="34.0821811" lon="139.5274775">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373466" lat="34.0822248" lon="139.5264373">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373467" lat="34.0823447" lon="139.5249231">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373469" lat="34.0826173" lon="139.5241726">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373471" lat="34.0828900" lon="139.5259501">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373472" lat="34.0829118" lon="139.5273721">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373474" lat="34.0831626" lon="139.5267401">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373477" lat="34.0843294" lon="139.5291628">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373481" lat="34.0848092" lon="139.5290311">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273373483" lat="34.0849619" lon="139.5275038">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273381090" lat="34.0854417" lon="139.5209205">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4273381091" lat="34.0855398" lon="139.5218948">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4317246954" lat="36.1067649" lon="137.5496858">
+    <tag k="ele" v="3026"/>
+    <tag k="name" v="乗鞍岳"/>
+    <tag k="name:en" v="Mt. Norikura"/>
+    <tag k="name:fr" v="Norikura"/>
+    <tag k="name:ja-Hira" v="のりくらだけ"/>
+    <tag k="name:ja-Latn" v="Norikuradake"/>
+    <tag k="name:ru" v="Норикура"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q3133588"/>
+    <tag k="wikipedia" v="ja:乗鞍岳"/>
+  </node>
+  <node id="4318282024" lat="36.2288900" lon="137.5882358">
+    <tag k="ele" v="2455"/>
+    <tag k="name" v="焼岳"/>
+    <tag k="name:en" v="Mt. Yakedake"/>
+    <tag k="name:ja-Hira" v="やけだけ"/>
+    <tag k="name:ja-Latn" v="Yakedake"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4358208302" lat="43.4540644" lon="144.1645986">
+    <tag k="ele" v="1370.4"/>
+    <tag k="name" v="雄阿寒岳"/>
+    <tag k="name:en" v="Mt. O-Akan"/>
+    <tag k="name:ja-Latn" v="Oakandake"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q8528084"/>
+    <tag k="wikipedia" v="ja:雄阿寒岳"/>
+  </node>
+  <node id="4358597241" lat="43.6175467" lon="144.4414331">
+    <tag k="description" v="この周囲には無数の噴火口から噴煙が出ています。"/>
+    <tag k="description:en" v="hot wells"/>
+    <tag k="name" v="熊落とし"/>
+    <tag k="name:de" v="Heiße Schwefelquellen"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="4360109215" lat="36.9529580" lon="139.2872596">
+    <tag k="name" v="燧ヶ岳"/>
+    <tag k="name:en" v="Mt. Hiuchigatake"/>
+    <tag k="name:ja-Latn" v="Hiuchigatake"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4392906940" lat="43.5723110" lon="144.5609967">
+    <tag k="ele" v="857"/>
+    <tag k="name" v="摩周岳"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q4392285"/>
+    <tag k="wikipedia" v="ja:摩周岳"/>
+  </node>
+  <node id="4601570296" lat="29.9609821" lon="129.9314613">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="4607733871" lat="29.8595905" lon="129.8603000">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5214573299" lat="39.8501526" lon="141.0020918">
+    <tag k="ele" v="2038"/>
+    <tag k="name" v="岩手山"/>
+    <tag k="name:en" v="Mt. Iwate"/>
+    <tag k="name:ja-Latn" v="Iwatesan"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q713836"/>
+    <tag k="wikipedia" v="ja:岩手山"/>
+  </node>
+  <node id="5314363929" lat="42.8302824" lon="140.8046543">
+    <tag k="name" v="母釜"/>
+    <tag k="name:ja" v="母釜"/>
+    <tag k="name:ja-Hira" v="ははがま"/>
+    <tag k="name:ja-Latn" v="hahagama"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="GSImaps/std"/>
+  </node>
+  <node id="5314363930" lat="42.8265262" lon="140.8061319">
+    <tag k="name" v="父釜"/>
+    <tag k="name:en" v="Mount Yotei san"/>
+    <tag k="name:ja-Hira" v="ちちがま"/>
+    <tag k="name:ja-Latn" v="chichigama"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="GSImaps/std"/>
+  </node>
+  <node id="5327511556" lat="35.0237208" lon="138.7835595">
+    <tag k="name" v="大瀬崎南火道"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="extinct"/>
+  </node>
+  <node id="5327511557" lat="34.8613061" lon="138.9829043">
+    <tag k="name" v="皮子平"/>
+    <tag k="name:en" v="Kawagodaira"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="active"/>
+  </node>
+  <node id="5356949106" lat="36.6222073" lon="138.5338513">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5385452247" lat="35.2269669" lon="138.8032061">
+    <tag k="name" v="愛鷹山"/>
+    <tag k="name:en" v="Mt. Ashitaka"/>
+    <tag k="name:ja-Latn" v="Ashitakayama"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5423854154" lat="31.9470780" lon="130.8540599">
+    <tag k="ele" v="1317"/>
+    <tag k="name" v="硫黄山"/>
+    <tag k="name:en" v="Mt. Io"/>
+    <tag k="name:ja-Latn" v="Iōyama"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5501273694" lat="34.8629414" lon="138.9289439">
+    <tag k="ele" v="674.4"/>
+    <tag k="name" v="鉢窪山"/>
+    <tag k="name:en" v="Hachikuboyama"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="active"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="5513753736" lat="34.8551263" lon="138.9386313">
+    <tag k="ele" v="938.4"/>
+    <tag k="name" v="丸山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5513753737" lat="34.8788762" lon="139.0324576">
+    <tag k="ele" v="1197.2"/>
+    <tag k="name" v="遠笠山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5513753738" lat="34.8948510" lon="139.0573230">
+    <tag k="ele" v="816"/>
+    <tag k="name" v="矢筈山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5513753739" lat="34.9021701" lon="139.0815464">
+    <tag k="name" v="台ノ山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5513753740" lat="34.8716437" lon="139.0795670">
+    <tag k="ele" v="459.4"/>
+    <tag k="name" v="伊雄山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="active"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="5513753741" lat="35.0051828" lon="139.0372809">
+    <tag k="ele" v="581.0"/>
+    <tag k="name" v="巣雲山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="wikidata" v="Q11479422"/>
+    <tag k="wikipedia" v="ja:巣雲山"/>
+  </node>
+  <node id="5513753742" lat="34.9110683" lon="139.0225850">
+    <tag k="ele" v="696.8"/>
+    <tag k="name" v="丸野山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="5569537530" lat="42.5547405" lon="140.8023594">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6763259413" lat="34.7925943" lon="138.9703222">
+    <tag k="ele" v="618.8"/>
+    <tag k="name" v="鉢ノ山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:status" v="active"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6763259421" lat="34.9129310" lon="139.0390405">
+    <tag k="ele" v="602"/>
+    <tag k="name" v="岩山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6763302342" lat="35.0162796" lon="138.9806010">
+    <tag k="name" v="高塚山"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430094" lat="34.9211888" lon="138.8955792">
+    <tag k="name" v="舩原"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430095" lat="34.8104571" lon="138.9414807">
+    <tag k="name" v="登り尾南"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769430096" lat="34.7846107" lon="138.9945684">
+    <tag k="name" v="大池"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769430097" lat="34.7894242" lon="138.9893303">
+    <tag k="name" v="小池"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430098" lat="34.7864251" lon="139.0430451">
+    <tag k="name" v="稲取"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430099" lat="34.9636806" lon="139.0741589">
+    <tag k="name" v="鉢ヶ窪"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430100" lat="34.9567777" lon="139.0644714">
+    <tag k="name" v="馬場平"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430101" lat="34.8998616" lon="139.0538504">
+    <tag k="name" v="孔ノ山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769430102" lat="34.8874222" lon="139.0013856">
+    <tag k="name" v="地蔵堂"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769430103" lat="34.9006699" lon="138.9533776">
+    <tag k="name" v="国士峠"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="volcano:type" v="scoria"/>
+  </node>
+  <node id="6769480479" lat="34.7969059" lon="138.9141455">
+    <tag k="name" v="沼ノ川南"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769480480" lat="34.8098176" lon="138.9040853">
+    <tag k="name" v="沼ノ川北"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769480481" lat="34.8279767" lon="138.9062232">
+    <tag k="name" v="二本杉林道"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769480482" lat="34.7851790" lon="138.9846931">
+    <tag k="name" v="天子平"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769480483" lat="34.7740823" lon="138.9769948">
+    <tag k="name" v="河津筏場"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769480484" lat="34.8088606" lon="139.0341076">
+    <tag k="name" v="堰口"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494985" lat="34.8358007" lon="139.0131156">
+    <tag k="name" v="川久保川"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494986" lat="34.8628160" lon="139.0652440">
+    <tag k="name" v="赤窪"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494987" lat="34.9522062" lon="139.1131922">
+    <tag k="name" v="城星"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494988" lat="34.9394965" lon="139.1312239">
+    <tag k="name" v="小室山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494989" lat="34.9620084" lon="139.1072109">
+    <tag k="name" v="内野"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494990" lat="34.9268425" lon="139.1104262">
+    <tag k="name" v="沼池"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494991" lat="34.9243018" lon="139.1240307">
+    <tag k="name" v="地久保"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494992" lat="34.9214884" lon="139.1266814">
+    <tag k="name" v="梅木平"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494993" lat="34.9168400" lon="139.1150431">
+    <tag k="ele" v="310"/>
+    <tag k="name" v="高室山"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494994" lat="34.9012028" lon="139.1288166">
+    <tag k="name" v="払"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494995" lat="34.8679730" lon="138.9471242">
+    <tag k="name" v="与一坂"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494996" lat="34.8436310" lon="138.9148079">
+    <tag k="name" v="滑沢"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494997" lat="34.8486777" lon="138.9285225">
+    <tag k="name" v="エサシノ峰"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="6769494998" lat="35.0097995" lon="139.0253540">
+    <tag k="name" v="長者原"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="7108477465" lat="39.9313917" lon="139.8703273">
+    <tag k="ele" v="225.5"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="7504983244" lat="31.8854518" lon="130.9098083">
+    <tag k="name" v="御鉢"/>
+    <tag k="name:en" v="Ohachi"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="7590585795" lat="36.8983442" lon="139.7738814">
+    <tag k="ele" v="1795"/>
+    <tag k="name" v="高原山"/>
+    <tag k="name:en" v="Mt. Takahara"/>
+    <tag k="natural" v="volcano"/>
+    <tag k="source" v="GSImaps/std"/>
+  </node>
+  <node id="7811796135" lat="42.8852961" lon="140.6405434">
+    <tag k="name" v="イワオヌプリ（硫黄山）"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="8510382846" lat="39.1158389" lon="139.9628722">
+    <tag k="name" v="猿穴噴火口"/>
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="8510382847" lat="39.1161802" lon="139.9640094">
+    <tag k="natural" v="volcano"/>
+  </node>
+  <node id="8592083931" lat="36.9217659" lon="138.0347061">
+    <tag k="natural" v="volcano"/>
+  </node>
+
+</osm>

@@ -1,0 +1,2926 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/263099699",
+            "properties": {
+                "alt_name:en": "Hokkaido-komagatake",
+                "alt_name:ja": "北海道駒ヶ岳",
+                "alt_name:ja_kana": "北海道駒ヶ岳",
+                "alt_name:ja_rm": "Hokkaidō-komagatake",
+                "ele": "1131",
+                "name": "駒ヶ岳",
+                "name:en": "Komagatake",
+                "name:ja_kana": "こまがたけ",
+                "name:ja_rm": "Komagatake",
+                "name:ru": "Комагатаке",
+                "natural": "volcano",
+                "wikidata": "Q715491",
+                "wikipedia": "en:Hokkaidō Komagatake",
+                "id": "node/263099699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6772408,
+                    42.0632712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/263099901",
+            "properties": {
+                "name:en": "Sawaratake",
+                "name:ja": "砂原岳",
+                "natural": "volcano",
+                "id": "node/263099901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.688549,
+                    42.0745329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/281895627",
+            "properties": {
+                "ele": "888",
+                "last_eruption": "1888",
+                "name": "Менделеева",
+                "natural": "volcano",
+                "type": "strato",
+                "id": "node/281895627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.7326778,
+                    43.9793537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/281896663",
+            "properties": {
+                "alt_name:cs": "Tjatja",
+                "condition": "active",
+                "ele": "1819",
+                "int_name": "Tyatya",
+                "name": "Тятя",
+                "name:cs": "Ťaťa",
+                "natural": "volcano",
+                "type": "strato",
+                "wikidata": "Q547770",
+                "id": "node/281896663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.252693,
+                    44.3531877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/281897347",
+            "properties": {
+                "ele": "543",
+                "int_name": "Golovnin",
+                "last_eruption": "1848",
+                "name": "вулкан Головнина",
+                "name:ru": "вулкан Головнина",
+                "natural": "volcano",
+                "wikidata": "Q2664586",
+                "wikipedia": "ru:Вулкан Головнина",
+                "id": "node/281897347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.4957851,
+                    43.8483958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/287268918",
+            "properties": {
+                "created_by": "Potlatch 0.10b",
+                "name": "吾妻小富士",
+                "natural": "volcano",
+                "id": "node/287268918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2608522,
+                    37.722008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/491318939",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/491318939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6858892,
+                    42.0658183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/510162677",
+            "properties": {
+                "ele": "2568",
+                "name": "浅間山",
+                "name:de": "Asama",
+                "name:en": "Mt. Asama",
+                "name:es": "Asama",
+                "name:fr": "Asama",
+                "name:int": "Asama",
+                "name:it": "Asama",
+                "name:ja-Hira": "あさまやま",
+                "name:ja-Latn": "Asamayama",
+                "name:ru": "Асама",
+                "natural": "volcano",
+                "wikidata": "Q242730",
+                "wikipedia": "en:Mount Asama",
+                "wikipedia:ja": "浅間山",
+                "id": "node/510162677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.522952,
+                    36.4065526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/714354378",
+            "properties": {
+                "alt_name:cs": "Fudži-san",
+                "alt_name:ja": "富岳",
+                "alt_name:ja_kana": "ふがく",
+                "alt_name:ko": "부사산",
+                "alt_name:ru": "вулкан Фудзи",
+                "description": "火山と日本で一番高い山。最後に噴火したのは宝永四年。",
+                "description:en": "Volcano and highest mountain in Japan. Last erupted in 1707.",
+                "description:ru": "Вулкан и самая высокая точка Японии. В последний раз извергался в 1707 году.",
+                "ele": "3776.2",
+                "ele:cho": "34.5",
+                "ele:ft": "12389",
+                "heritage": "1",
+                "isolation": "2077",
+                "name": "富士山",
+                "name:af": "Foedji",
+                "name:am": "ፉጂ ተራራ",
+                "name:ar": "جبل فوجي",
+                "name:as": "মাউণ্ট ফুজি",
+                "name:az": "Fuci",
+                "name:ba": "Фудзияма",
+                "name:be": "Фудзіяма",
+                "name:bg": "Фуджи",
+                "name:bn": "ফুজি পর্বত",
+                "name:br": "Menez Fuji",
+                "name:bs": "Fudži",
+                "name:ca": "Mont Fuji",
+                "name:cs": "Fudžisan",
+                "name:cy": "Mynydd Fuji",
+                "name:da": "Fuji",
+                "name:de": "Fuji",
+                "name:dv": "ފުޖީ ފަރުބަދަ",
+                "name:el": "Φούτζι",
+                "name:en": "Mount Fuji",
+                "name:eo": "Fuĵi-Monto",
+                "name:es": "Monte Fuji",
+                "name:et": "Fuji",
+                "name:eu": "Fuji mendia",
+                "name:fa": "کوه فوجی",
+                "name:fi": "Fuji",
+                "name:fr": "Mont Fuji",
+                "name:gl": "Monte Fuji",
+                "name:he": "הר פוג'י",
+                "name:hi": "फ्यूजीयामा",
+                "name:hr": "Fuji",
+                "name:hu": "Fudzsi",
+                "name:hy": "Ֆուձիյամա",
+                "name:id": "Gunung Fuji",
+                "name:it": "Monte Fuji",
+                "name:ja": "富士山",
+                "name:ja-Hira": "ふじさん",
+                "name:ja_kana": "ふじさん",
+                "name:ja_rm": "Fujisan",
+                "name:jv": "Gunung Fuji",
+                "name:ka": "ფუძიამა",
+                "name:kk": "Фудзияма",
+                "name:km": "ភ្នំហ្វឹជី",
+                "name:ko": "후지 산",
+                "name:la": "Mons Fusius",
+                "name:lt": "Fudzijama",
+                "name:lv": "Fudzi",
+                "name:mk": "Фуџи",
+                "name:ml": "ഫുജി പർവ്വതം",
+                "name:mn": "Фүжи уул",
+                "name:mr": "फूजी पर्वत",
+                "name:ms": "Gunung Fuji",
+                "name:nl": "Fuji",
+                "name:nn": "Fuji-fjellet",
+                "name:no": "Fuji-san",
+                "name:oc": "Mont Fuji",
+                "name:or": "ଫୁଜି ପର୍ବତ",
+                "name:pa": "ਮਾਊਂਟ ਫੂਜੀ",
+                "name:pl": "Fudżi",
+                "name:pt": "Monte Fuji",
+                "name:ro": "Fuji",
+                "name:ru": "вулкан Фудзияма",
+                "name:sk": "Fudžisan",
+                "name:sl": "Fuji",
+                "name:sq": "Fuxhi",
+                "name:sr": "Fudži",
+                "name:su": "Gunung Fuji",
+                "name:sv": "Fuji",
+                "name:ta": "ஃவூஜி மலை",
+                "name:te": "ఫ్యూజీ పర్వతం",
+                "name:th": "ภูเขาฟุจิ",
+                "name:tl": "Bundok Fuji",
+                "name:tr": "Fuji Dağı",
+                "name:tt": "Фудзияма",
+                "name:uk": "вулкан Фудзі",
+                "name:ur": "کوہ فیوجی",
+                "name:vi": "Phú Sĩ",
+                "name:zh": "富士山",
+                "natural": "volcano",
+                "note": "国土地理院地図\nhttps://maps.gsi.go.jp/#14/35.362456/138.730502/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1",
+                "owner": "富士山本宮浅間大社",
+                "prominence": "3776",
+                "short_name:cs": "Fudži",
+                "volcano:status": "dormant",
+                "volcano:type": "stratovolcano",
+                "wikidata": "Q39231",
+                "wikipedia": "ja:富士山",
+                "id": "node/714354378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.730781,
+                    35.362799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/829818724",
+            "properties": {
+                "ele": "1041",
+                "name": "樽前山",
+                "name:en": "Tarumae Yama",
+                "name:ja": "樽前山",
+                "name:ja_kana": "たるまえやま",
+                "name:ja_rm": "Tarumae Yama",
+                "natural": "volcano",
+                "wikidata": "Q1057979",
+                "wikipedia": "en:Mount Tarumae",
+                "id": "node/829818724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3782424,
+                    42.689394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/829818731",
+            "properties": {
+                "ele": "993.9",
+                "name": "Nishiyama",
+                "name:ja": "西山",
+                "natural": "volcano",
+                "id": "node/829818731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3696077,
+                    42.6839197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/829818753",
+            "properties": {
+                "ele": "1022",
+                "name": "東山",
+                "name:en": "Higashiyama",
+                "name:ja": "東山",
+                "name:ja_kana": "ひがしやま",
+                "name:ja_rm": "Higashiyama",
+                "natural": "volcano",
+                "id": "node/829818753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3866463,
+                    42.691988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/917987193",
+            "properties": {
+                "ele": "1592",
+                "name": "阿蘇山",
+                "name:be": "вулкан Аса",
+                "name:en": "Mount Aso",
+                "name:es": "Monte Aso",
+                "name:fr": "Mont Aso",
+                "name:it": "Monte Aso",
+                "name:ja": "阿蘇山",
+                "name:ja_kana": "あそさん",
+                "name:ja_rm": "Aso-san",
+                "name:ru": "вулкан Асо",
+                "name:uk": "вулкан Асо",
+                "name:zh": "阿苏山",
+                "name:zh-Hans": "阿苏山",
+                "name:zh-Hant": "阿蘇山",
+                "natural": "volcano",
+                "tourism": "attraction",
+                "wikidata": "Q733710",
+                "wikipedia": "ja:阿蘇山",
+                "id": "node/917987193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.0856638,
+                    32.8848462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1280125814",
+            "properties": {
+                "name": "桜島",
+                "name:en": "Sakurajima",
+                "name:ja": "桜島",
+                "natural": "volcano",
+                "volcano:status": "active",
+                "volcano:type": "stratovolcano",
+                "wikidata": "Q128841",
+                "id": "node/1280125814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.657984,
+                    31.5805744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1280126650",
+            "properties": {
+                "name": "姶良カルデラ",
+                "name:en": "Aira Caldera",
+                "natural": "volcano",
+                "type": "supervolcano",
+                "wikidata": "Q1198576",
+                "id": "node/1280126650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.6993509,
+                    31.6514713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1344157430",
+            "properties": {
+                "description": "山形県最高峰",
+                "ele": "2236",
+                "name": "鳥海山",
+                "name:en": "Mt. Chokai",
+                "name:ja": "鳥海山",
+                "name:ja-Hira": "ちょうかいさん",
+                "name:ja-Latn": "Chōkaisan",
+                "name:ru": "Тёкай",
+                "natural": "volcano",
+                "wikidata": "Q713826",
+                "wikipedia": "en:Mount Chōkai",
+                "id": "node/1344157430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0503497,
+                    39.0992494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1366603211",
+            "properties": {
+                "ele": "1499",
+                "name": "雌阿寒岳",
+                "name:en": "Mt. Me-Akan",
+                "name:ja-Latn": "Meakandake",
+                "name:ja_kana": "めあかんだけ",
+                "natural": "volcano",
+                "wikidata": "Q472705",
+                "wikipedia": "en:Mount Meakan",
+                "id": "node/1366603211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.0087915,
+                    43.3863191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1366603214",
+            "properties": {
+                "ele": "1547",
+                "name": "斜里岳",
+                "name:en": "Shari Dake",
+                "name:fr": "Mont Shari",
+                "name:ja": "斜里岳",
+                "name:ja_kana": "しゃりだけ",
+                "name:ja_rm": "Shari Dake",
+                "natural": "volcano",
+                "wikidata": "Q714564",
+                "wikipedia": "en:Mount Shari",
+                "id": "node/1366603214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.7176711,
+                    43.7657277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1366603241",
+            "properties": {
+                "alt_name": "利尻富士",
+                "ele": "1721",
+                "name": "利尻山",
+                "name:en": "Mt. Rishiri",
+                "name:ja": "利尻山",
+                "name:ja_kana": "りしりざん",
+                "name:ja_rm": "Rishiri Zan",
+                "name:ru": "Рисири",
+                "natural": "volcano",
+                "wikidata": "Q2154758",
+                "wikipedia": "ja:利尻山",
+                "id": "node/1366603241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.2420282,
+                    45.178498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1563438382",
+            "properties": {
+                "ele": "815",
+                "name": "雄山",
+                "name:en": "Mt. Oyama",
+                "name:ja": "雄山",
+                "name:ja-Hira": "おやま",
+                "name:ja_rm": "O Yama",
+                "name:ru": "Миякедзима",
+                "name:uk": "Ояма",
+                "natural": "volcano",
+                "wikidata": "Q19945735",
+                "id": "node/1563438382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5280135,
+                    34.088433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1642980821",
+            "properties": {
+                "ele": "1205",
+                "name": "Атсонупури",
+                "name:en": "Atsonupuri",
+                "name:ru": "Атсонупури",
+                "natural": "volcano",
+                "wikidata": "Q524216",
+                "wikipedia": "ru:Атсонупури",
+                "id": "node/1642980821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.1274786,
+                    44.8077041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1642980822",
+            "properties": {
+                "ele": "1634",
+                "name": "Стокап",
+                "name:en": "Stokap",
+                "name:ru": "Стокап",
+                "natural": "volcano",
+                "wikidata": "Q4442785",
+                "wikipedia": "ru:Стокап",
+                "id": "node/1642980822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3497353,
+                    44.8395349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1643078681",
+            "properties": {
+                "ele": "1223",
+                "name": "Берутарубе",
+                "name:en": "Berutarube",
+                "name:ru": "Берутарубе",
+                "natural": "volcano",
+                "wikidata": "Q829207",
+                "wikipedia": "ru:Берутарубе",
+                "id": "node/1643078681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.9297813,
+                    44.4702737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1644058040",
+            "properties": {
+                "ele": "1585",
+                "name": "Богдан Хмельницкий",
+                "name:en": "Bogdan Hmelnitskiy",
+                "name:ru": "Богдан Хмельницкий",
+                "natural": "volcano",
+                "volcano:status": "extinct",
+                "wikidata": "Q4089188",
+                "wikipedia": "ru:Богдан Хмельницкий (вулкан)",
+                "id": "node/1644058040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.9206334,
+                    45.3373815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1644058047",
+            "properties": {
+                "ele": "1159",
+                "name": "Иван Грозный",
+                "name:en": "Ivan Groznyi",
+                "natural": "volcano",
+                "wikidata": "Q3156114",
+                "wikipedia": "ru:Иван Грозный (вулкан)",
+                "id": "node/1644058047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.8735117,
+                    45.0119888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1644058078",
+            "properties": {
+                "ele": "1589",
+                "name": "Чирип",
+                "name:en": "Chirip",
+                "name:ru": "Чирип",
+                "natural": "volcano",
+                "wikidata": "Q2666739",
+                "wikipedia": "ru:Чирип (вулкан)",
+                "id": "node/1644058078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.9132224,
+                    45.3780682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1644058087",
+            "properties": {
+                "ele": "1134",
+                "name": "вулкан Баранского",
+                "name:en": "Baranskogo",
+                "name:ru": "вулкан Баранского",
+                "natural": "volcano",
+                "wikidata": "Q807265",
+                "wikipedia": "ru:Вулкан Баранского",
+                "id": "node/1644058087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.0161192,
+                    45.1031856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1644058088",
+            "properties": {
+                "ele": "1211",
+                "name": "вулкан Тебенькова",
+                "natural": "volcano",
+                "id": "node/1644058088"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.9200275,
+                    45.0219849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1691773451",
+            "properties": {
+                "ele": "1787",
+                "name": "九重山",
+                "name:en": "Mt. Kuju",
+                "name:fr": "Mont Kuju",
+                "name:ja": "九重山",
+                "name:ja-Latn": "Kujūsan",
+                "name:ja_kana": "くじゅうさん",
+                "name:ru": "вулкан Кудзю",
+                "natural": "volcano",
+                "volcano:status": "extinct",
+                "volcano:type": "stratovolcano",
+                "wikidata": "Q6921721",
+                "id": "node/1691773451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.2408919,
+                    33.0822026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1852101603",
+            "properties": {
+                "name": "霧島山",
+                "name:en": "Mt. Kirishima",
+                "name:fr": "Monts Kirishima",
+                "name:ja": "霧島山",
+                "name:ja-Hira": "きりしまやま",
+                "name:ja-Latn": "Kirishimayama",
+                "natural": "volcano",
+                "wikipedia": "ja:霧島山",
+                "id": "node/1852101603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8615144,
+                    31.9380533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2106458688",
+            "properties": {
+                "ele": "1485",
+                "name": "Руруй",
+                "natural": "volcano",
+                "id": "node/2106458688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.1396441,
+                    44.4543847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2118956382",
+            "properties": {
+                "name": "B1",
+                "natural": "volcano",
+                "source": "survey 2013-01-19",
+                "id": "node/2118956382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3992173,
+                    34.7295662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2118971867",
+            "properties": {
+                "name": "B2",
+                "natural": "volcano",
+                "source": "survey 2013-01-19",
+                "id": "node/2118971867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3983888,
+                    34.7302838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2118995816",
+            "properties": {
+                "ele": "497",
+                "name:ru": "Михара",
+                "natural": "volcano",
+                "source": "trace, GSI/KIBAN 25000",
+                "wikidata": "Q1138683",
+                "id": "node/2118995816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3945435,
+                    34.7269449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2119419969",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/2119419969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3973421,
+                    34.7310265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2482997126",
+            "properties": {
+                "natural": "volcano",
+                "source": "survey 2013-08-12",
+                "id": "node/2482997126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.4040555,
+                    43.600026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2482997169",
+            "properties": {
+                "name": "ボッケ",
+                "natural": "volcano",
+                "source": "survey 2013-08-12",
+                "id": "node/2482997169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.4066254,
+                    43.6009086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2482997170",
+            "properties": {
+                "name": "ボッケ",
+                "natural": "volcano",
+                "source": "survey 2013-08-12",
+                "id": "node/2482997170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.4064664,
+                    43.6009735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2482997171",
+            "properties": {
+                "description": "硫黄噴火口",
+                "name": "第２硫黄山",
+                "natural": "volcano",
+                "source": "survey 2013-08-12",
+                "id": "node/2482997171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.407843,
+                    43.6011625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2489390983",
+            "properties": {
+                "ele": "494.8",
+                "name": "東峰",
+                "name:en": "Higashimine",
+                "natural": "volcano",
+                "id": "node/2489390983"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.9947483,
+                    28.8007733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2489390985",
+            "properties": {
+                "ele": "259",
+                "name": "西峰",
+                "name:en": "Nishimine",
+                "natural": "volcano",
+                "id": "node/2489390985"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.9793613,
+                    28.7960922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2596204497",
+            "properties": {
+                "name": "赤城山",
+                "name:en": "Mt. Akagi",
+                "name:ja": "赤城山",
+                "name:ja-Hira": "あかぎさん",
+                "name:ja-Latn": "Akagisan",
+                "name:ru": "Акаги",
+                "natural": "volcano",
+                "wikidata": "Q415251",
+                "wikipedia": "en:Mount Akagi",
+                "id": "node/2596204497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1782291,
+                    36.5552373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3101369270",
+            "properties": {
+                "is_in:country": "Japan",
+                "name": "御嶽山",
+                "name:en": "Mt. Ontake",
+                "name:ja-Latn": "Ontakesan",
+                "natural": "volcano",
+                "status": "active",
+                "type": "stratovolcano",
+                "id": "node/3101369270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.4788014,
+                    35.8946201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3292335658",
+            "properties": {
+                "ele": "1319.5",
+                "name": "恵庭岳",
+                "name:en": "Eniwa Dake",
+                "name:ja_kana": "えにわだけ",
+                "name:ja_rm": "Eniwa Dake",
+                "natural": "volcano",
+                "source": "GSImaps/std",
+                "id": "node/3292335658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.2853851,
+                    42.793304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3292335674",
+            "properties": {
+                "ele": "1102.3",
+                "name": "風不死岳",
+                "name:en": "Fuppushi Dake",
+                "name:ja_kana": "ふっぷしだけ",
+                "name:ja_rm": "Fuppushi Dake",
+                "natural": "volcano",
+                "source": "GSImaps/std",
+                "id": "node/3292335674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3588942,
+                    42.7168585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3578270582",
+            "properties": {
+                "name": "秋田駒ヶ岳",
+                "name:en": "Mt. Akita-Komagatake",
+                "name:ja-Hira": "あきたこまがたけ",
+                "name:ja-Latn": "Akita-Komagatake",
+                "natural": "volcano",
+                "official_name": "駒ヶ岳",
+                "official_name:en": "Mt. Komagatake",
+                "official_name:ja-Hira": "こまがたけ",
+                "official_name:ja-Latn": "Komagatake",
+                "id": "node/3578270582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7956815,
+                    39.7530656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3586241892",
+            "properties": {
+                "int_name": "Mt. Unzen",
+                "name": "雲仙岳",
+                "name:en": "Mt. Unzen",
+                "name:ja-Latn": "Unzendake",
+                "name:ru": "Ундзен",
+                "natural": "volcano",
+                "wikidata": "Q620860",
+                "wikipedia": "ja:雲仙岳",
+                "id": "node/3586241892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2916464,
+                    32.7618964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3598758549",
+            "properties": {
+                "name": "那須岳",
+                "name:en": "Nasu",
+                "name:ja": "那須岳",
+                "name:ja_kana": "なすだけ",
+                "name:ja_rm": "Nasu-dake",
+                "name:ru": "Насу",
+                "natural": "volcano",
+                "wikidata": "Q3695587",
+                "wikipedia": "ja:那須岳",
+                "id": "node/3598758549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9636798,
+                    37.1255153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3600637057",
+            "properties": {
+                "name": "三瓶山",
+                "name:en": "Mt. Sanbe",
+                "name:ja-Latn": "Sanbesan",
+                "natural": "volcano",
+                "id": "node/3600637057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.6254971,
+                    35.1346562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3600643281",
+            "properties": {
+                "name": "蔵王山",
+                "name:en": "Mt. Zao",
+                "name:ja-Hira": "ざおうざん",
+                "name:ja-Latn": "Zaōzan",
+                "natural": "volcano",
+                "id": "node/3600643281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4558427,
+                    38.1367164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3600650310",
+            "properties": {
+                "alt_name:ja-Hira": "おそれやま",
+                "alt_name:ja-Latn": "Osoreyama",
+                "name": "恐山",
+                "name:en": "Mt. Osore",
+                "name:ja-Hira": "おそれざん",
+                "name:ja-Latn": "Osorezan",
+                "natural": "volcano",
+                "id": "node/3600650310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0876763,
+                    41.3169493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3600728446",
+            "properties": {
+                "name": "大雪山",
+                "name:en": "Mt. Taisetsu",
+                "name:ja_kana": "たいせつざん",
+                "name:ja_rm": "Taisetsu Zan",
+                "natural": "volcano",
+                "id": "node/3600728446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.866511,
+                    43.67251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3698659760",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3698659760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.6656292,
+                    31.5752107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3698659761",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3698659761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.6643148,
+                    31.5769283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3698659762",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3698659762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.6607543,
+                    31.5785131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3698741198",
+            "properties": {
+                "natural": "volcano",
+                "status": "active",
+                "id": "node/3698741198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.6644223,
+                    31.5790509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3730395406",
+            "properties": {
+                "name": "新岳",
+                "name:en": "Shindake",
+                "name:ja_kana": "しんだけ",
+                "name:ja_rm": "Shindake",
+                "natural": "volcano",
+                "source": "GSImaps/std",
+                "wikidata": "Q20010113",
+                "id": "node/3730395406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2151885,
+                    30.4458111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810709997",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810709997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.7146854,
+                    29.6425603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710626",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8841761,
+                    31.9111122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710655",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0186664,
+                    35.2395841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710656",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0293527,
+                    35.2398971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710661",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0224716,
+                    35.2430429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710664",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0235154,
+                    35.2445947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710675",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.4812106,
+                    35.8887739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710677",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.4784445,
+                    35.8910048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710712",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5359804,
+                    36.6426771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710729",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2478987,
+                    37.7265446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/3810710798",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/3810710798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.0167588,
+                    43.3918628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4248418572",
+            "properties": {
+                "ele": "1475.8",
+                "name": "阿寒富士",
+                "natural": "volcano",
+                "id": "node/4248418572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.0064728,
+                    43.3740895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4267999498",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4267999498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7645425,
+                    32.4530801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4268024381",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4268024381"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7623729,
+                    32.4524591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4269763015",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4269763015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.352062,
+                    41.5136994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4271455105",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4271455105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3142977,
+                    30.7875908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4271455106",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4271455106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3029702,
+                    30.7897959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4271455109",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4271455109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3144633,
+                    30.7899097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4271455112",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4271455112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3077945,
+                    30.7913091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4271455113",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4271455113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3002046,
+                    30.7930253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4271455114",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4271455114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3062161,
+                    30.7967382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373440",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.52807,
+                    34.0800764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373449",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5278198,
+                    34.0806435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373457",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.526727,
+                    34.0811779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373458",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5275038,
+                    34.0814723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373464",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5274775,
+                    34.0821811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373466",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5264373,
+                    34.0822248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373467",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5249231,
+                    34.0823447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373469",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5241726,
+                    34.0826173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373471",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5259501,
+                    34.08289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373472",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5273721,
+                    34.0829118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373474",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5267401,
+                    34.0831626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373477",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5291628,
+                    34.0843294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373481",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5290311,
+                    34.0848092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273373483",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273373483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5275038,
+                    34.0849619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273381090",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273381090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5209205,
+                    34.0854417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4273381091",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4273381091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5218948,
+                    34.0855398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4317246954",
+            "properties": {
+                "ele": "3026",
+                "name": "乗鞍岳",
+                "name:en": "Mt. Norikura",
+                "name:fr": "Norikura",
+                "name:ja-Hira": "のりくらだけ",
+                "name:ja-Latn": "Norikuradake",
+                "name:ru": "Норикура",
+                "natural": "volcano",
+                "wikidata": "Q3133588",
+                "wikipedia": "ja:乗鞍岳",
+                "id": "node/4317246954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.5496858,
+                    36.1067649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4318282024",
+            "properties": {
+                "ele": "2455",
+                "name": "焼岳",
+                "name:en": "Mt. Yakedake",
+                "name:ja-Hira": "やけだけ",
+                "name:ja-Latn": "Yakedake",
+                "natural": "volcano",
+                "id": "node/4318282024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.5882358,
+                    36.22889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4358208302",
+            "properties": {
+                "ele": "1370.4",
+                "name": "雄阿寒岳",
+                "name:en": "Mt. O-Akan",
+                "name:ja-Latn": "Oakandake",
+                "natural": "volcano",
+                "wikidata": "Q8528084",
+                "wikipedia": "ja:雄阿寒岳",
+                "id": "node/4358208302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.1645986,
+                    43.4540644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4358597241",
+            "properties": {
+                "description": "この周囲には無数の噴火口から噴煙が出ています。",
+                "description:en": "hot wells",
+                "name": "熊落とし",
+                "name:de": "Heiße Schwefelquellen",
+                "natural": "volcano",
+                "source": "local knowledge",
+                "id": "node/4358597241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.4414331,
+                    43.6175467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4360109215",
+            "properties": {
+                "name": "燧ヶ岳",
+                "name:en": "Mt. Hiuchigatake",
+                "name:ja-Latn": "Hiuchigatake",
+                "natural": "volcano",
+                "id": "node/4360109215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2872596,
+                    36.952958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4392906940",
+            "properties": {
+                "ele": "857",
+                "name": "摩周岳",
+                "natural": "volcano",
+                "wikidata": "Q4392285",
+                "wikipedia": "ja:摩周岳",
+                "id": "node/4392906940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.5609967,
+                    43.572311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4601570296",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4601570296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.9314613,
+                    29.9609821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/4607733871",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/4607733871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.8603,
+                    29.8595905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5214573299",
+            "properties": {
+                "ele": "2038",
+                "name": "岩手山",
+                "name:en": "Mt. Iwate",
+                "name:ja-Latn": "Iwatesan",
+                "natural": "volcano",
+                "wikidata": "Q713836",
+                "wikipedia": "ja:岩手山",
+                "id": "node/5214573299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0020918,
+                    39.8501526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5314363929",
+            "properties": {
+                "name": "母釜",
+                "name:ja": "母釜",
+                "name:ja-Hira": "ははがま",
+                "name:ja-Latn": "hahagama",
+                "natural": "volcano",
+                "source": "GSImaps/std",
+                "id": "node/5314363929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8046543,
+                    42.8302824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5314363930",
+            "properties": {
+                "name": "父釜",
+                "name:en": "Mount Yotei san",
+                "name:ja-Hira": "ちちがま",
+                "name:ja-Latn": "chichigama",
+                "natural": "volcano",
+                "source": "GSImaps/std",
+                "id": "node/5314363930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8061319,
+                    42.8265262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5327511556",
+            "properties": {
+                "name": "大瀬崎南火道",
+                "natural": "volcano",
+                "volcano:status": "extinct",
+                "id": "node/5327511556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7835595,
+                    35.0237208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5327511557",
+            "properties": {
+                "name": "皮子平",
+                "name:en": "Kawagodaira",
+                "natural": "volcano",
+                "volcano:status": "active",
+                "id": "node/5327511557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9829043,
+                    34.8613061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5356949106",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/5356949106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5338513,
+                    36.6222073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5385452247",
+            "properties": {
+                "name": "愛鷹山",
+                "name:en": "Mt. Ashitaka",
+                "name:ja-Latn": "Ashitakayama",
+                "natural": "volcano",
+                "id": "node/5385452247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8032061,
+                    35.2269669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5423854154",
+            "properties": {
+                "ele": "1317",
+                "name": "硫黄山",
+                "name:en": "Mt. Io",
+                "name:ja-Latn": "Iōyama",
+                "natural": "volcano",
+                "id": "node/5423854154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8540599,
+                    31.947078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5501273694",
+            "properties": {
+                "ele": "674.4",
+                "name": "鉢窪山",
+                "name:en": "Hachikuboyama",
+                "natural": "volcano",
+                "volcano:status": "active",
+                "volcano:type": "scoria",
+                "id": "node/5501273694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9289439,
+                    34.8629414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753736",
+            "properties": {
+                "ele": "938.4",
+                "name": "丸山",
+                "natural": "volcano",
+                "id": "node/5513753736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9386313,
+                    34.8551263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753737",
+            "properties": {
+                "ele": "1197.2",
+                "name": "遠笠山",
+                "natural": "volcano",
+                "id": "node/5513753737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0324576,
+                    34.8788762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753738",
+            "properties": {
+                "ele": "816",
+                "name": "矢筈山",
+                "natural": "volcano",
+                "id": "node/5513753738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.057323,
+                    34.894851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753739",
+            "properties": {
+                "name": "台ノ山",
+                "natural": "volcano",
+                "id": "node/5513753739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0815464,
+                    34.9021701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753740",
+            "properties": {
+                "ele": "459.4",
+                "name": "伊雄山",
+                "natural": "volcano",
+                "volcano:status": "active",
+                "volcano:type": "scoria",
+                "id": "node/5513753740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.079567,
+                    34.8716437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753741",
+            "properties": {
+                "ele": "581.0",
+                "name": "巣雲山",
+                "natural": "volcano",
+                "wikidata": "Q11479422",
+                "wikipedia": "ja:巣雲山",
+                "id": "node/5513753741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0372809,
+                    35.0051828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5513753742",
+            "properties": {
+                "ele": "696.8",
+                "name": "丸野山",
+                "natural": "volcano",
+                "id": "node/5513753742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.022585,
+                    34.9110683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/5569537530",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/5569537530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8023594,
+                    42.5547405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6763259413",
+            "properties": {
+                "ele": "618.8",
+                "name": "鉢ノ山",
+                "natural": "volcano",
+                "volcano:status": "active",
+                "volcano:type": "scoria",
+                "id": "node/6763259413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9703222,
+                    34.7925943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6763259421",
+            "properties": {
+                "ele": "602",
+                "name": "岩山",
+                "natural": "volcano",
+                "id": "node/6763259421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0390405,
+                    34.912931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6763302342",
+            "properties": {
+                "name": "高塚山",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6763302342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.980601,
+                    35.0162796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430094",
+            "properties": {
+                "name": "舩原",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8955792,
+                    34.9211888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430095",
+            "properties": {
+                "name": "登り尾南",
+                "natural": "volcano",
+                "id": "node/6769430095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9414807,
+                    34.8104571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430096",
+            "properties": {
+                "name": "大池",
+                "natural": "volcano",
+                "id": "node/6769430096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9945684,
+                    34.7846107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430097",
+            "properties": {
+                "name": "小池",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9893303,
+                    34.7894242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430098",
+            "properties": {
+                "name": "稲取",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0430451,
+                    34.7864251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430099",
+            "properties": {
+                "name": "鉢ヶ窪",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0741589,
+                    34.9636806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430100",
+            "properties": {
+                "name": "馬場平",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0644714,
+                    34.9567777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430101",
+            "properties": {
+                "name": "孔ノ山",
+                "natural": "volcano",
+                "id": "node/6769430101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0538504,
+                    34.8998616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430102",
+            "properties": {
+                "name": "地蔵堂",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0013856,
+                    34.8874222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769430103",
+            "properties": {
+                "name": "国士峠",
+                "natural": "volcano",
+                "volcano:type": "scoria",
+                "id": "node/6769430103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9533776,
+                    34.9006699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769480479",
+            "properties": {
+                "name": "沼ノ川南",
+                "natural": "volcano",
+                "id": "node/6769480479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9141455,
+                    34.7969059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769480480",
+            "properties": {
+                "name": "沼ノ川北",
+                "natural": "volcano",
+                "id": "node/6769480480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9040853,
+                    34.8098176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769480481",
+            "properties": {
+                "name": "二本杉林道",
+                "natural": "volcano",
+                "id": "node/6769480481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9062232,
+                    34.8279767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769480482",
+            "properties": {
+                "name": "天子平",
+                "natural": "volcano",
+                "id": "node/6769480482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9846931,
+                    34.785179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769480483",
+            "properties": {
+                "name": "河津筏場",
+                "natural": "volcano",
+                "id": "node/6769480483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9769948,
+                    34.7740823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769480484",
+            "properties": {
+                "name": "堰口",
+                "natural": "volcano",
+                "id": "node/6769480484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0341076,
+                    34.8088606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494985",
+            "properties": {
+                "name": "川久保川",
+                "natural": "volcano",
+                "id": "node/6769494985"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0131156,
+                    34.8358007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494986",
+            "properties": {
+                "name": "赤窪",
+                "natural": "volcano",
+                "id": "node/6769494986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.065244,
+                    34.862816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494987",
+            "properties": {
+                "name": "城星",
+                "natural": "volcano",
+                "id": "node/6769494987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1131922,
+                    34.9522062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494988",
+            "properties": {
+                "name": "小室山",
+                "natural": "volcano",
+                "id": "node/6769494988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1312239,
+                    34.9394965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494989",
+            "properties": {
+                "name": "内野",
+                "natural": "volcano",
+                "id": "node/6769494989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1072109,
+                    34.9620084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494990",
+            "properties": {
+                "name": "沼池",
+                "natural": "volcano",
+                "id": "node/6769494990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1104262,
+                    34.9268425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494991",
+            "properties": {
+                "name": "地久保",
+                "natural": "volcano",
+                "id": "node/6769494991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1240307,
+                    34.9243018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494992",
+            "properties": {
+                "name": "梅木平",
+                "natural": "volcano",
+                "id": "node/6769494992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1266814,
+                    34.9214884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494993",
+            "properties": {
+                "ele": "310",
+                "name": "高室山",
+                "natural": "volcano",
+                "id": "node/6769494993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1150431,
+                    34.91684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494994",
+            "properties": {
+                "name": "払",
+                "natural": "volcano",
+                "id": "node/6769494994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1288166,
+                    34.9012028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494995",
+            "properties": {
+                "name": "与一坂",
+                "natural": "volcano",
+                "id": "node/6769494995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9471242,
+                    34.867973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494996",
+            "properties": {
+                "name": "滑沢",
+                "natural": "volcano",
+                "id": "node/6769494996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9148079,
+                    34.843631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494997",
+            "properties": {
+                "name": "エサシノ峰",
+                "natural": "volcano",
+                "id": "node/6769494997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9285225,
+                    34.8486777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/6769494998",
+            "properties": {
+                "name": "長者原",
+                "natural": "volcano",
+                "id": "node/6769494998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.025354,
+                    35.0097995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/7108477465",
+            "properties": {
+                "ele": "225.5",
+                "natural": "volcano",
+                "id": "node/7108477465"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8703273,
+                    39.9313917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/7504983244",
+            "properties": {
+                "name": "御鉢",
+                "name:en": "Ohachi",
+                "natural": "volcano",
+                "id": "node/7504983244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.9098083,
+                    31.8854518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/7590585795",
+            "properties": {
+                "ele": "1795",
+                "name": "高原山",
+                "name:en": "Mt. Takahara",
+                "natural": "volcano",
+                "source": "GSImaps/std",
+                "id": "node/7590585795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7738814,
+                    36.8983442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/7811796135",
+            "properties": {
+                "name": "イワオヌプリ（硫黄山）",
+                "natural": "volcano",
+                "id": "node/7811796135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6405434,
+                    42.8852961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/8510382846",
+            "properties": {
+                "name": "猿穴噴火口",
+                "natural": "volcano",
+                "id": "node/8510382846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9628722,
+                    39.1158389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/8510382847",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/8510382847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9640094,
+                    39.1161802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/8592083931",
+            "properties": {
+                "natural": "volcano",
+                "id": "node/8592083931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0347061,
+                    36.9217659
+                ]
+            }
+        }
+    ]
+}

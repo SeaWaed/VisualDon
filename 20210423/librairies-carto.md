@@ -1,6 +1,7 @@
 **Pourquoi doit-on projeter des données cartographiques?**
 
 **Qu'est ce qu'Open street map?**
+C'est un "wiki" de la map monde contenant des données géographique.
 
 **Quelles fonctions D3 sont spécifiques à la cartographie?**
     1. geoMercator
