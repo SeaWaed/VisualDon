@@ -1,0 +1,3 @@
+J'ai choisi d'utiliser la solution de cheerio. J'ai premièrement pris le code html que j'ai simplement copié via le browser.
+J'ai par la suite analyser la page html afin de trouver la colone la plus haute mais aussi la plus pertinante, en soit row dans notre cas. Puis, j'ai identifié la colonne qui identifie chaque article et j'ai pris les éléments demandés.
+Concernant la partie du ratings, il aurait été possible de faire une boucle qui calcule chaque élément mais le data attribut nous donne le nombre d'étoile. Je n'ai cependant pas réussi à prendre cette donnée.
